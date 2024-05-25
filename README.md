@@ -1,1 +1,1 @@
-# makeCPU
+# makeCPU,MIPS32
