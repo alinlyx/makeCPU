@@ -1,1 +1,1 @@
-# makeCPU,MIPS32,pipeline5
+# makeCPU,MIPS32
