@@ -1,0 +1,4 @@
+{
+    "verilog.linting.linter": "modelsim",
+    "verilog.linting.modelsim.work": "D:\\modeltech64_10.5\\examples\\work"
+}

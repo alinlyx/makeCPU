@@ -1,0 +1,199 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/makeCPU/makeCPU
+vex
+!s110 1717160565
+!i10b 1
+!s100 QDijZKf5I<7Vl9AgET=0G1
+I@3z?@?fVaKCNXS^>`LSK<0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1717160556
+8.\ex.v
+F.\ex.v
+L0 3
+Z2 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1717160565.000000
+!s107 defines.v|.\ex.v|
+!s90 .\ex.v|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vex_mem
+!s110 1717161287
+!i10b 1
+!s100 GSDLLj1lLl:i:RM60[>lF2
+IFW[>IkhX5JkD833me>oVC1
+R1
+R0
+w1717161270
+8.\ex_mem.v
+F.\ex_mem.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1717161287.000000
+!s107 defines.v|.\ex_mem.v|
+!s90 .\ex_mem.v|
+!i113 0
+R3
+R4
+vid
+!s110 1717067623
+!i10b 1
+!s100 gSO5ZZBfE8[DjlQF<BDDe1
+I3ET=NBHG[m^AfV8`^jHRC1
+R1
+R0
+w1717067617
+8.\id.v
+F.\id.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1717067623.000000
+!s107 defines.v|.\id.v|
+!s90 .\id.v|
+!i113 0
+R3
+R4
+vid_ex
+!s110 1717070549
+!i10b 1
+!s100 gl>_>Ck_4oDC4UY@@GRPh3
+IQT^C6SQYSGHCB^mzN;AZ51
+R1
+R0
+w1717070531
+8.\id_ex.v
+F.\id_ex.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1717070549.000000
+!s107 defines.v|.\id_ex.v|
+!s90 .\id_ex.v|
+!i113 0
+R3
+R4
+vif_id
+!s110 1716983794
+!i10b 1
+!s100 _Sdzf3R:YXL0oeSZ5OE>P1
+I`C:A;K5zL`P:MA@g6D2=j1
+R1
+R0
+w1716983789
+8.\if_id.v
+F.\if_id.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1716983794.000000
+!s107 defines.v|.\if_id.v|
+!s90 .\if_id.v|
+!i113 0
+R3
+R4
+vmem
+!s110 1717161968
+!i10b 1
+!s100 oaIBOVd1CMkO^EFIJ9A>c2
+IzURBT3cOI`UX@4B7DVzaR2
+R1
+R0
+w1717161961
+8.\mem.v
+F.\mem.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1717161968.000000
+!s107 defines.v|.\mem.v|
+!s90 .\mem.v|
+!i113 0
+R3
+R4
+vmem_wb
+!s110 1717162675
+!i10b 1
+!s100 2AJoHH5meiW7fg]6d2mOD1
+IEW4jnDXGKMjQ=Q=j`CiQd2
+R1
+R0
+w1717162672
+8.\mem_wb.v
+F.\mem_wb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1717162675.000000
+!s107 defines.v|.\mem_wb.v|
+!s90 .\mem_wb.v|
+!i113 0
+R3
+R4
+vpc_reg
+!s110 1716983133
+!i10b 1
+!s100 7^?lIU6UfV6ULk?G1=dG<1
+I[l3MXTMYhho75UAmzTMN52
+R1
+R0
+w1716983126
+8.\pc_reg.v
+F.\pc_reg.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1716983133.000000
+!s107 defines.v|.\pc_reg.v|
+!s90 .\pc_reg.v|
+!i113 0
+R3
+R4
+vregfile
+!s110 1717053286
+!i10b 1
+!s100 [BHo>AKCmaK]6AGZfZ?=z3
+Ioica1I=i1RnJf=A]fAV6[0
+R1
+R0
+w1717053265
+8.\regfile.v
+F.\regfile.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1717053286.000000
+!s107 defines.v|.\regfile.v|
+!s90 .\regfile.v|
+!i113 0
+R3
+R4
