@@ -113,6 +113,27 @@ r1
 !i113 0
 R3
 R4
+vinst_rom
+!s110 1717336138
+!i10b 1
+!s100 id9FA>l]f7?:ndmdOhE9H2
+IXhGZZ59]4E4QF6<AkKoIa0
+R1
+R0
+w1717336124
+8inst_rom.v
+Finst_rom.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1717336138.000000
+!s107 defines.v|inst_rom.v|
+!s90 inst_rom.v|
+!i113 0
+R3
+R4
 vmem
 !s110 1717161968
 !i10b 1
@@ -155,24 +176,87 @@ r1
 !i113 0
 R3
 R4
-vpc_reg
-!s110 1716983133
+vopenmips
+!s110 1717334643
 !i10b 1
-!s100 7^?lIU6UfV6ULk?G1=dG<1
-I[l3MXTMYhho75UAmzTMN52
+!s100 G=`K3Ezj;Y@IH>G;RA^:a3
+I;ROoJ_6_RT@_3WLbRf7cS1
 R1
 R0
-w1716983126
-8.\pc_reg.v
-F.\pc_reg.v
+w1717334640
+8.\openmips.v
+F.\openmips.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1717334643.000000
+!s107 defines.v|.\openmips.v|
+Z5 !s90 .\openmips.v|
+!i113 0
+R3
+R4
+vopenmips_min_sopc
+!s110 1717765301
+!i10b 1
+!s100 =5TC:<al2S@[cXCeP56460
+IW6?J`B[<le^WS`LVFWgF71
+R1
+R0
+w1717765283
+8.\openmips_min_sopc.v
+F.\openmips_min_sopc.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1717765301.000000
+!s107 defines.v|.\openmips_min_sopc.v|
+!s90 .\openmips_min_sopc.v|
+!i113 0
+R3
+R4
+vopenmips_min_sopc_tb
+!s110 1717767121
+!i10b 1
+!s100 @?JHBIF39A2MHhXZj45^C2
+I=cU^W``e]n>MfkcWe7J2:3
+R1
+R0
+w1717767118
+8.\openmips_min_sopc_tb.v
+F.\openmips_min_sopc_tb.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1717767121.000000
+!s107 defines.v|.\openmips_min_sopc_tb.v|
+!s90 .\openmips_min_sopc_tb.v|
+!i113 0
+R3
+R4
+vpc_reg
+!s110 1717334603
+!i10b 1
+!s100 7^?lIU6UfV6ULk?G1=dG<1
+IF>oe:>4Nn0]T7D8jVnAIK0
+R1
+R0
+w1717160956
+8pc_reg.v
+Fpc_reg.v
 L0 3
 R2
 r1
 !s85 0
 31
-!s108 1716983133.000000
-!s107 defines.v|.\pc_reg.v|
-!s90 .\pc_reg.v|
+!s108 1717334603.000000
+!s107 pc_reg.v|defines.v|.\openmips.v|
+R5
 !i113 0
 R3
 R4
