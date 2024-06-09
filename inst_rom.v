@@ -8,7 +8,9 @@ module inst_rom(
 
 reg [`InstBus] inst_mem [0 : `InstMemNum-1];
 
-initial $readmemh ("inst_rom.data",inst_mem);
+initial $readmemh ("D:\\makeCPU\\inst_rom.data",inst_mem);
+//initial $readmemh ("D:\\makeCPU\\makeCPU\\rom.data",rom);
+
 /*
 initial 
 begin
