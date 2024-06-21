@@ -77,7 +77,7 @@ if_id if_id0(
     .if_pc(pc),
     .if_inst(rom_data_i),
     .id_pc(id_pc_i),
-    .idinst(id_inst_i)
+    .id_inst(id_inst_i)
 );
 
 //ID
