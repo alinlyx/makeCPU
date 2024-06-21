@@ -150,7 +150,7 @@ ex ex0(
 
     .wd_o(ex_wd_o),
     .wreg_o(ex_wreg_o),
-    .wdata_o(ex_wd_o)
+    .wdata_o(ex_wdata_o)
 );
 
 //EX/MEM
