@@ -1,4 +1,4 @@
-//4.2.5.2
+//5.2
 `include "defines.v"
 module id(
     input wire rst,

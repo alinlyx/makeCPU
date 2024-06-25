@@ -1,4 +1,4 @@
-//4.2.9
+//5.2
 `include "defines.v"
 
 module openmips(
