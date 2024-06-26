@@ -9,32 +9,32 @@ z2
 cModel Technology
 dd:/modeltech64_10.5/examples
 T_opt
-!s110 1718977779
-VdkACSem^UVAz2XZdW<6H03
+!s110 1719333467
+VeFG`ECAzAF^g2cgaj42VA3
 04 20 4 work openmips_min_sopc_tb fast 0
-=1-548d5a05df57-667584f3-205-640c
+=1-548d5a05df57-667af25a-267-888
 o-quiet -auto_acc_if_foreign -work work +acc
 Z0 tCvgOpt 0
 n@_opt
 OL;O;10.5;63
 vex
-Z1 !s110 1718977757
+Z1 !s110 1719333451
 !i10b 1
 !s100 QDijZKf5I<7Vl9AgET=0G1
-IIJzO78^0XXnVLbbFdDk4m1
+IdZ1iZi<;TPFBVE>IlcKd02
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 Z3 dD:/makeCPU/work
 w1717160556
-8D:/makeCPU/ex.v
-FD:/makeCPU/ex.v
+8D:\makeCPU\ex.v
+FD:\makeCPU\ex.v
 L0 3
 Z4 OL;L;10.5;63
 r1
 !s85 0
 31
-Z5 !s108 1718977756.000000
-!s107 D:\makeCPU\defines.v|D:/makeCPU/ex.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/ex.v|
+Z5 !s108 1719333451.000000
+!s107 D:\makeCPU\defines.v|D:\makeCPU\ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\ex.v|
 !i113 0
 Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R0
@@ -42,41 +42,41 @@ vex_mem
 R1
 !i10b 1
 !s100 GSDLLj1lLl:i:RM60[>lF2
-INJH:]dNPXXC@U8XUP6Sb_2
+IjIdDa=GdLA]zbaLeK@[K70
 R2
 R3
 w1717161270
-8D:/makeCPU/ex_mem.v
-FD:/makeCPU/ex_mem.v
+8D:\makeCPU\ex_mem.v
+FD:\makeCPU\ex_mem.v
 L0 3
 R4
 r1
 !s85 0
 31
-Z7 !s108 1718977757.000000
-!s107 D:\makeCPU\defines.v|D:/makeCPU/ex_mem.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/ex_mem.v|
+R5
+!s107 D:\makeCPU\defines.v|D:\makeCPU\ex_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\ex_mem.v|
 !i113 0
 R6
 R0
 vid
 R1
 !i10b 1
-!s100 gSO5ZZBfE8[DjlQF<BDDe1
-I`McAABYa0DiUii:]5SKKd2
+!s100 =2l7eR2_ncbQH9?M>mY:_0
+IiE105McFlKD5F6??0[Fc=3
 R2
 R3
-w1717067617
-8D:/makeCPU/id.v
-FD:/makeCPU/id.v
+w1719332065
+8D:\makeCPU\id.v
+FD:\makeCPU\id.v
 L0 3
 R4
 r1
 !s85 0
 31
-R7
-!s107 D:\makeCPU\defines.v|D:/makeCPU/id.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/id.v|
+R5
+!s107 D:\makeCPU\defines.v|D:\makeCPU\id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\id.v|
 !i113 0
 R6
 R0
@@ -84,25 +84,25 @@ vid_ex
 R1
 !i10b 1
 !s100 gl>_>Ck_4oDC4UY@@GRPh3
-IdUo;GYK=J=nY2n=FAO41@3
+IkcI?@PBRBPaVkc=LGO6QS0
 R2
 R3
 w1717070531
-8D:/makeCPU/id_ex.v
-FD:/makeCPU/id_ex.v
+8D:\makeCPU\id_ex.v
+FD:\makeCPU\id_ex.v
 L0 3
 R4
 r1
 !s85 0
 31
-R7
-!s107 D:\makeCPU\defines.v|D:/makeCPU/id_ex.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/id_ex.v|
+R5
+!s107 D:\makeCPU\defines.v|D:\makeCPU\id_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\id_ex.v|
 !i113 0
 R6
 R0
 vif_id
-Z8 !s110 1718977756
+!s110 1718977756
 !i10b 1
 !s100 _Sdzf3R:YXL0oeSZ5OE>P1
 IZnQh=md8a4hHIdij9kK6`2
@@ -116,177 +116,177 @@ R4
 r1
 !s85 0
 31
-R5
+!s108 1718977756.000000
 !s107 D:\makeCPU\defines.v|D:/makeCPU/if_id.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/if_id.v|
 !i113 0
 R6
 R0
 vinst_rom
-R8
+R1
 !i10b 1
 !s100 CXgf3P<:j`Xm8d:jUk_bK0
-IT]YaCO24ahd:zJ[7Y8Sb71
+IWY3=P4maOSndEDF9d_>c_1
 R2
 R3
 w1718977354
-8D:/makeCPU/inst_rom.v
-FD:/makeCPU/inst_rom.v
+8D:\makeCPU\inst_rom.v
+FD:\makeCPU\inst_rom.v
 L0 3
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/inst_rom.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/inst_rom.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\inst_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\inst_rom.v|
 !i113 0
 R6
 R0
 vmem
-R8
+R1
 !i10b 1
 !s100 oaIBOVd1CMkO^EFIJ9A>c2
-I3cR5]8zjV3823;Ml?WjL=2
+IEN2g=A5UG9njf]O:NcJff3
 R2
 R3
 w1717161961
-8D:/makeCPU/mem.v
-FD:/makeCPU/mem.v
+8D:\makeCPU\mem.v
+FD:\makeCPU\mem.v
 L0 3
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/mem.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/mem.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\mem.v|
 !i113 0
 R6
 R0
 vmem_wb
-R8
+R1
 !i10b 1
 !s100 2AJoHH5meiW7fg]6d2mOD1
-I>aKc;F7O^;83G50nMXdRR2
+IDFWK2<SbCa9h;_J^VNTW>0
 R2
 R3
 w1717162672
-8D:/makeCPU/mem_wb.v
-FD:/makeCPU/mem_wb.v
+8D:\makeCPU\mem_wb.v
+FD:\makeCPU\mem_wb.v
 L0 3
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/mem_wb.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/mem_wb.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\mem_wb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\mem_wb.v|
 !i113 0
 R6
 R0
 vopenmips
-R8
+R1
 !i10b 1
-!s100 @169XDQa9QCZYLI@7PUjc0
-ICoHi1c8eK9eI1<NbA12>]1
+!s100 IZf0ZlFYmOA@lhDIgN7E:1
+IDKAz2OWejW`PazB0NWP5d2
 R2
 R3
-w1718975999
-8D:/makeCPU/openmips.v
-FD:/makeCPU/openmips.v
+w1719332070
+8D:\makeCPU\openmips.v
+FD:\makeCPU\openmips.v
 L0 4
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/openmips.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/openmips.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\openmips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\openmips.v|
 !i113 0
 R6
 R0
 vopenmips_min_sopc
-R8
+R1
 !i10b 1
 !s100 F66baaSM5:I6KXiCVz4?o2
-InCz4Y2?C6<g]LTeAdbAo]3
+ISShWESBH?T<Jcg6Hgj?P10
 R2
 R3
 w1717767682
-8D:/makeCPU/openmips_min_sopc.v
-FD:/makeCPU/openmips_min_sopc.v
+8D:\makeCPU\openmips_min_sopc.v
+FD:\makeCPU\openmips_min_sopc.v
 L0 4
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/openmips_min_sopc.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/openmips_min_sopc.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\openmips_min_sopc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\openmips_min_sopc.v|
 !i113 0
 R6
 R0
 vopenmips_min_sopc_tb
-R8
+R1
 !i10b 1
 !s100 @?JHBIF39A2MHhXZj45^C2
-IB688m@3]f8QYlX8d=GZ;]3
+I6?jnXZ9ajTfX`LFDPJceC1
 R2
 R3
 w1717767118
-8D:/makeCPU/openmips_min_sopc_tb.v
-FD:/makeCPU/openmips_min_sopc_tb.v
+8D:\makeCPU\openmips_min_sopc_tb.v
+FD:\makeCPU\openmips_min_sopc_tb.v
 L0 6
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/openmips_min_sopc_tb.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/openmips_min_sopc_tb.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\openmips_min_sopc_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\openmips_min_sopc_tb.v|
 !i113 0
 R6
 R0
 vpc_reg
-R8
+R1
 !i10b 1
 !s100 7^?lIU6UfV6ULk?G1=dG<1
-IVEYRHAL5Bb@7G61ckkSZ91
+IQP<:n;Bbhn2`_IImmVNJ;3
 R2
 R3
 w1717160956
-8D:/makeCPU/pc_reg.v
-FD:/makeCPU/pc_reg.v
+8D:\makeCPU\pc_reg.v
+FD:\makeCPU\pc_reg.v
 L0 3
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/pc_reg.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/pc_reg.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\pc_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\pc_reg.v|
 !i113 0
 R6
 R0
 vregfile
-R8
+R1
 !i10b 1
 !s100 [BHo>AKCmaK]6AGZfZ?=z3
-IogNkOOLmRM2eADa@lS`id0
+I6gzKLJmEaJiiXgV@g8f@W2
 R2
 R3
 w1717053265
-8D:/makeCPU/regfile.v
-FD:/makeCPU/regfile.v
+8D:\makeCPU\regfile.v
+FD:\makeCPU\regfile.v
 L0 4
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:\makeCPU\defines.v|D:/makeCPU/regfile.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/makeCPU/regfile.v|
+!s107 D:\makeCPU\defines.v|D:\makeCPU\regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\makeCPU\regfile.v|
 !i113 0
 R6
 R0
