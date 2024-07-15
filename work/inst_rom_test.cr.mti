@@ -78,18 +78,18 @@ Top level modules:
 } {} {}} D:/makeCPU/defines.v {1 {vlog -work work -vopt -stats=none D:/makeCPU/defines.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 
-} {} {}} D:/makeCPU/mem.v {1 {vlog -work work -vopt -stats=none D:/makeCPU/mem.v
-Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
--- Compiling module mem
-
-Top level modules:
-	mem
-
 } {} {}} D:/makeCPU/openmips_min_sopc_tb.v {1 {vlog -work work -vopt -stats=none D:/makeCPU/openmips_min_sopc_tb.v
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
 -- Compiling module openmips_min_sopc_tb
 
 Top level modules:
 	openmips_min_sopc_tb
+
+} {} {}} D:/makeCPU/mem.v {1 {vlog -work work -vopt -stats=none D:/makeCPU/mem.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module mem
+
+Top level modules:
+	mem
 
 } {} {}}
